@@ -27,7 +27,7 @@ https://cryptii.com/pipes/caesar-cipher
 2. **Asymmentric Encyprtion**
 
 # Symmetric Encryption / Cryptography
-![alt text](../Cryptography/image/symmetric%20encryption.png)
+![alt text](image/symmetric%20encryption.png)
 uses the same key to encrypt and decrypt the data. it's called private key cryptography. Keeping the key secret is a must.
 Communicating the key to the intended parties is challeneging as it requires a secure communication channel, even more when there's many recipients or a powerful adversary.
 - DES (Data Encryption Standard): uses 56-bit key
@@ -35,7 +35,7 @@ Communicating the key to the intended parties is challeneging as it requires a s
 - AES (Advanced Encryption Standard): key size can be 128, 192, or 256 bits
 
 # Asymmetric Encryption / Cryptography
-![alt text](../Cryptography/image/asymmetric%20encryption.png)
+![alt text](image/asymmetric%20encryption.png)
 uses a pair of keys, one to encrypt and the other to decrypt. It encrypts tha data using the public key, hence called public key cryptography.
 - **RSA**: 2048-bit, 3072-bit, 4096-bit keys; 2048-bit is recommended minimum key size
 - **Diffie-Hellman**: uses 3072-bit and 4096-bit keys for enhanced security; 2048-bit is recommended minimum key size
